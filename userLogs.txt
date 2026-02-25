@@ -9,5 +9,5 @@ message|6701|6704$
 listings|034$
 |6705|Maomao|123|maoXD|0.0$
 |6706|MAOMAO|123|diyan lang|0.0
-listings|032
+sale|mingming|90.0|kyot|Electronics|MAOMAO|UserID-6706/listing-032.png
 listings|033
