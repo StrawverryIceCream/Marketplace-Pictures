@@ -20,4 +20,3 @@
 022|ches ulit|haha|189.0|Electronics|6702|UserID-6702/listing-022.jpg
 023|happy family|hotdog|420.0|Clothing|6702|UserID-6702/listing-023.jpg
 024|Hotdog|Hehe|898989.0|Food & Beverages|6702|UserID-6702/listing-024.jpg
-025|ketchup|dwada|12.0|Electronics|6702|UserID-6702/listing-025.jpg
