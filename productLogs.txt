@@ -1,0 +1,24 @@
+001|Organic Apples|Fresh red apples 1kg|149.0|Food & Beverages|6701|UserID-6701/listings_1.jpg
+002|Chocolate Milk 1L|Creamy milk drink|89.5|Food & Beverages|6701|UserID-6701/listings_2.jpg
+003|NOOOOOOOOdles|masarap toh beh|PRICE: 50.0|food|6702|UserID-6701/listings_3.jpg
+004|Men's Graphic T-Shirt|Cotton oversized tee|399.0|Clothing|6704|UserID-6702/listings_1.jpg
+005|Women's Denim Jacket|Light blue casual wear|1299.0|Clothing|6704|UserID-6702/listings_2.jpg
+006|Kids Pajama Set|Soft cotton sleepwear|499.0|Clothing|6704|UserID-6702/listings_3.jpg
+007|Bluetooth Headphones|Noise cancelling|1599.0|Electronics|6701|
+008|hot man|titi ni julith malaki|69.0|Books|6702|UserID-6702/listing-008.jpeg
+009|Tinola|lsang adobo na pwede mo laklakin|20.0|Food & Beverages|6701|UserID-6701/listing-009.jpg
+010|Jeffrey|hello|6969.0|Books|6701|UserID-6701/listing-010.png
+011|Gagamboy|Spider-man costume for Esplanade|150.0|Clothing|unknown|UserID-unknown/listing-011.jpg
+012|Lancelot Skin|Skin ni Lance|1500.0|Clothing|6704|UserID-6704/listing-012.jpg
+013|iyakkkkkkkkkkkkkk|hehe|0.0|Shoes|6702|UserID-6702/listing-013.jpg
+014|Movie Poster|Mundo Mo'y Akin Poster w/ puppy freebie|1900.0|Home Appliances|unknown|UserID-unknown/listing-014a.jpg;UserID-unknown/listing-014b.jpg
+016|cy|titi|420.0|Others|6702|UserID-6702/listing-016.jpg
+017|baliw|hahaha|89.0|Electronics|unknown|UserID-unknown/listing-017a.png;UserID-unknown/listing-017b.png;UserID-unknown/listing-017c.png
+018|TiTE|qweqeq|2123.0|Clothing|6704|UserID-6704/listing-018a.png;UserID-6704/listing-018b.png
+019|ruthie|yummy|20.0|Food & Beverages|6702|UserID-6702/listing-019.png
+020|mary|yummy|89.0|Food & Beverages|6702|UserID-6702/listing-019.png
+021|itlog|Hotdog|8912.0|Electronics|6702|UserID-6702/listing-021a.jpg;UserID-6702/listing-021b.jpg
+022|ches ulit|haha|189.0|Electronics|6702|UserID-6702/listing-022.jpg
+023|happy family|hotdog|420.0|Clothing|6702|UserID-6702/listing-023.jpg
+024|Hotdog|Hehe|898989.0|Food & Beverages|6702|UserID-6702/listing-024.jpg
+025|ketchup|dwada|12.0|Electronics|6702|UserID-6702/listing-025.jpg
