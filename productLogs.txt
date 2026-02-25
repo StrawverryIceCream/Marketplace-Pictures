@@ -14,7 +14,6 @@
 016|cy|titi|420.0|Others|6702|UserID-6702/listing-016.jpg
 017|baliw|hahaha|89.0|Electronics|unknown|UserID-unknown/listing-017a.png;UserID-unknown/listing-017b.png;UserID-unknown/listing-017c.png
 018|TiTE|qweqeq|2123.0|Clothing|6704|UserID-6704/listing-018a.png;UserID-6704/listing-018b.png
-019|ruthie|yummy|20.0|Food & Beverages|6702|UserID-6702/listing-019.png
 020|mary|yummy|89.0|Food & Beverages|6702|UserID-6702/listing-019.png
 021|itlog|Hotdog|8912.0|Electronics|6702|UserID-6702/listing-021a.jpg;UserID-6702/listing-021b.jpg
 022|ches ulit|haha|189.0|Electronics|6702|UserID-6702/listing-022.jpg
