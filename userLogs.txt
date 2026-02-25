@@ -1,3 +1,4 @@
+$
 |6701|Jolet Poniente|nicole|Noveleta, Cavite|6.9
 profile|UserID-6701/profile.jpg
 $
@@ -16,8 +17,8 @@ $
 |6706|MAOMAO|123|diyan lang|0.0
 listings|031
 listings|032
-listings|033
-sale|CUTE|2.0|red na red|Food & Beverages|MAOMAO|UserID-6706/listing-035.png
+sale|ruth|10.0|cute|Food & Beverages|MAOMAO|UserID-6706/listing-033.png
+listings|035
 $
 |6707|Jhiro Malupetiks|143171738|Kaytitinga 1, Alfonso Cavite|0.0
 message|6704
