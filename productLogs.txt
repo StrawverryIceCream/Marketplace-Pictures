@@ -3,5 +3,5 @@
 030|posa|cute super|1000.0|Others|6706|UserID-6706/listing-030.png
 031|posa|cute|12.0|Others|6706|UserID-6706/listing-031.png
 032|mingming|kyot|90.0|Electronics|6706|UserID-6706/listing-032.png
-033|ruth|cute|10.0|Food & Beverages|6706|UserID-6706/listing-033.png
 034|PATHFIT UNIFORM|eyyy|899.0|Clothing|6704|UserID-6704/listing-034a.png; UserID-6704/listing-034b.png; UserID-6704/listing-034c.png; UserID-6704/listing-034d.png
+035|CUTE|red na red|2.0|Food & Beverages|6706|UserID-6706/listing-035.png
