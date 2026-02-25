@@ -20,4 +20,6 @@ listings|033
 sale|CUTE|2.0|red na red|Food & Beverages|MAOMAO|UserID-6706/listing-035.png
 $
 |6707|Jhiro Malupetiks|143171738|Kaytitinga 1, Alfonso Cavite|0.0
+message|6704
+listings|036
 $
