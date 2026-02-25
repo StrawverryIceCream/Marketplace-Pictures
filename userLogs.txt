@@ -11,5 +11,5 @@ listings|034$
 |6706|MAOMAO|123|diyan lang|0.0
 listings|031
 listings|032
-listings|033
-sale|CUTE|2.0|red na red|Food & Beverages|MAOMAO|UserID-6706/listing-035.png
+sale|ruth|10.0|cute|Food & Beverages|MAOMAO|UserID-6706/listing-033.png
+listings|035
